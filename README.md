@@ -44,7 +44,7 @@ This will start server on localhost 9000
 # Step-7: Create core folder 
 
 Run `django-admin startproject core .`
-This will create another app name `YOUR_APP_NAME`
+This will create the main folder for django project.
 
 # Step-8: Create sub-app
 
